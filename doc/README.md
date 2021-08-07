@@ -1,41 +1,41 @@
-Litecoin Core
+Bandexcoin Core
 =============
 
 Setup
 ---------------------
-Litecoin Core is the original Litecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litecoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Bandexcoin Core is the original Bandexcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Bandexcoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Litecoin Core, visit [litecoin.org](https://litecoin.org/).
+To download Bandexcoin Core, visit [bandexcoin.org](https://bandexcoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Litecoin Core on your native platform.
+The following are some helpful notes on how to run Bandexcoin Core on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/bandexcoin-qt` (GUI) or
+- `bin/bandexcoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run bandexcoin-qt.exe.
 
 ### macOS
 
-Drag Litecoin Core to your applications folder, and then run Litecoin Core.
+Drag Bandexcoin Core to your applications folder, and then run Bandexcoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Litecoin Wiki](https://litecoin.info/)
+* See the documentation at the [Bandexcoin Wiki](https://bandexcoin.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [LitecoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
+* Ask for help on [#bandexcoin](http://webchat.freenode.net?channels=bandexcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bandexcoin).
+* Ask for help on the [BandexcoinTalk](https://bandexcointalk.io/) forums, in the [Technical Support section](https://bandexcointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Litecoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Bandexcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Litecoin Core on your native p
 
 Development
 ---------------------
-The Litecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Bandexcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -64,8 +64,8 @@ The Litecoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LitecoinTalk](https://litecointalk.io/) forums.
-* Discuss general Litecoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
+* Discuss on the [BandexcoinTalk](https://bandexcointalk.io/) forums.
+* Discuss general Bandexcoin development on #bandexcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bandexcoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

@@ -6,7 +6,7 @@
 
 export LC_ALL=C.UTF-8
 
-cd "build/litecoin-$HOST" || (echo "could not enter distdir build/litecoin-$HOST"; exit 1)
+cd "build/bandexcoin-$HOST" || (echo "could not enter distdir build/bandexcoin-$HOST"; exit 1)
 
 if [ "$RUN_UNIT_TESTS" = "true" ]; then
   BEGIN_FOLD unit-tests

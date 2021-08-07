@@ -42,10 +42,10 @@ QString BitcoinUnits::longName(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("LTC");
-    case mBTC: return QString("lites");
-    case uBTC: return QString("photons");
-    case SAT: return QString("litoshi");
+    case BTC: return QString("BEX");
+    case mBTC: return QString("mBEX");
+    case uBTC: return QString("uBEX");
+    case SAT: return QString("aBEX");
     default: return QString("???");
     }
 }
@@ -64,10 +64,10 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Litecoins");
-    case mBTC: return QString("Lites (1 / 1" THIN_SP_UTF8 "000)");
-    case uBTC: return QString("Photons (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-    case SAT: return QString("Litoshis (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case BTC: return QString("Bandexcoins");
+    case mBTC: return QString("Milli-Bandexcoins (1 / 1" THIN_SP_UTF8 "000)");
+    case uBTC: return QString("Micro-Bandexcoins (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case SAT: return QString("Atom-Bandexcoins (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }
