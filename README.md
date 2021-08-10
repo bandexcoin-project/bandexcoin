@@ -1,7 +1,28 @@
+![alt text](https://bandexcoin.com/wp-content/uploads/2021/08/image-readme-github.png)
+
 Bandexcoin Core integration/staging tree
 =====================================
 
-https://bandexcoin.com
+Website : https://bandexcoin.com <br />
+Explorer : http://45.153.186.12:3001 <br />
+Pool : http://86.106.181.240:8080 <br />
+Forum : https://bandexcoin.com/community <br />
+Discord : https://discord.gg/7etm8J9xyc
+
+The specifications are: <br />
+Name: Bandexcoin <br />
+Ticker: BEX <br />
+First letter: B (or M) <br />
+Maturity: 100 <br />
+Max supply: 81,919,998 <br />
+P2p port: 6333 <br />
+Rpc port: 6332 <br />
+Halving: 512,000 <br />
+Block time: 5 min <br />
+Diff time: 576 blocks <br />
+Block reward: 80 <br />
+Premined: 0 <br />
+Algo: scrypt <br />
 
 What is Bandexcoin?
 ----------------
