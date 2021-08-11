@@ -5,7 +5,7 @@ Bandexcoin Core integration/staging tree
 
 Website : https://bandexcoin.com <br />
 Explorer : http://explorer.bandexcoin.com <br />
-Pool : http://86.106.181.240:8080 <br />
+Pool : https://mining.bandexcoin.com/ <br />
 Forum : https://bandexcoin.com/community <br />
 Discord : https://discord.gg/7etm8J9xyc
 
