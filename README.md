@@ -7,7 +7,10 @@ Website : https://bandexcoin.com <br />
 Explorer : http://explorer.bandexcoin.com <br />
 Pool : https://mining.bandexcoin.com/ <br />
 Forum : https://bandexcoin.com/community <br />
-Discord : https://discord.gg/7etm8J9xyc
+Discord : https://discord.gg/7etm8J9xyc <br />
+Telegram : https://t.me/bandexcoinofficial <br />
+Reddit : https://www.reddit.com/r/bandexcoin <br />
+Twitter : https://twitter.com/bandexcoin <br />
 
 The specifications are: <br />
 Name: Bandexcoin <br />
