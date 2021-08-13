@@ -8,9 +8,10 @@ Explorer : http://explorer.bandexcoin.com <br />
 Pool : https://mining.bandexcoin.com/ <br />
 Forum : https://bandexcoin.com/community <br />
 Discord : https://discord.gg/7etm8J9xyc <br />
-Telegram : https://t.me/bandexcoinofficial <br />
+Telegram : https://t.me/joinchat/u5uqY0ytVzg5NGE8 <br />
 Reddit : https://www.reddit.com/r/bandexcoin <br />
 Twitter : https://twitter.com/bandexcoin <br />
+Youtube : https://www.youtube.com/channel/UCWnFcK_ShvD69G50_fv-jpg
 
 The specifications are: <br />
 Name: Bandexcoin <br />
