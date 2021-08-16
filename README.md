@@ -7,11 +7,6 @@ Website : https://bandexcoin.com <br />
 Explorer : http://explorer.bandexcoin.com <br />
 Pool : https://mining.bandexcoin.com/ <br />
 Forum : https://bandexcoin.com/community <br />
-Discord : https://discord.gg/7etm8J9xyc <br />
-Telegram : https://t.me/joinchat/u5uqY0ytVzg5NGE8 <br />
-Reddit : https://www.reddit.com/r/bandexcoin <br />
-Twitter : https://twitter.com/bandexcoin <br />
-Youtube : https://www.youtube.com/channel/UCWnFcK_ShvD69G50_fv-jpg
 
 The specifications are: <br />
 Name: Bandexcoin <br />
@@ -27,6 +22,14 @@ Diff time: 576 blocks <br />
 Block reward: 80 <br />
 Premined: 0 <br />
 Algo: scrypt <br />
+
+Discord : https://discord.gg/7etm8J9xyc <br />
+Telegram : https://t.me/joinchat/u5uqY0ytVzg5NGE8 <br />
+Reddit : https://www.reddit.com/r/bandexcoin <br />
+Twitter : https://twitter.com/bandexcoin <br />
+Youtube : https://www.youtube.com/channel/UCWnFcK_ShvD69G50_fv-jpg <br />
+Facebook : https://www.facebook.com/profile.php?id=100071631310427 <br />
+Instagram : https://www.instagram.com/bandexcoin/
 
 What is Bandexcoin?
 ----------------
