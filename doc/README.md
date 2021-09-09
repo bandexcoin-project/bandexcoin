@@ -5,7 +5,7 @@ Setup
 ---------------------
 Bandexcoin Core is the original Bandexcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Bandexcoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Bandexcoin Core, visit [bandexcoin.org](https://bandexcoin.org/).
+To download Bandexcoin Core, visit [bandexcoin.com](https://bandexcoin.com/).
 
 Running
 ---------------------
@@ -28,10 +28,7 @@ Drag Bandexcoin Core to your applications folder, and then run Bandexcoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Bandexcoin Wiki](https://bandexcoin.info/)
-for help and more information.
-* Ask for help on [#bandexcoin](http://webchat.freenode.net?channels=bandexcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bandexcoin).
-* Ask for help on the [BandexcoinTalk](https://bandexcointalk.io/) forums, in the [Technical Support section](https://bandexcointalk.io/c/technical-support).
+* Ask for help on the [Bandexcoin Forum](https://bandexcoin.com/community/) forums.
 
 Building
 ---------------------
