@@ -120,8 +120,8 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        vSeeds.emplace_back("86.106.181.240");
-        vSeeds.emplace_back("45.153.186.12");
+        vSeeds.emplace_back("81.169.152.105");
+        vSeeds.emplace_back("bibipool.com");
         //vSeeds.emplace_back("dnsseed.bandexcointools.com");
         //vSeeds.emplace_back("dnsseed.bandexcoinpool.org");
 
