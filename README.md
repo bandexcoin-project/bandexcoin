@@ -24,6 +24,7 @@ Premined: 0 <br />
 Algo: scrypt <br />
 
 Discord : https://discord.gg/7etm8J9xyc <br />
+Bitcointalk : https://bitcointalk.org/index.php?topic=5353527.msg57654583#msg57654583 <br />
 Telegram : https://t.me/joinchat/u5uqY0ytVzg5NGE8 <br />
 Reddit : https://www.reddit.com/r/bandexcoin <br />
 Twitter : https://twitter.com/bandexcoin <br />
