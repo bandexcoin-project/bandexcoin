@@ -121,7 +121,7 @@ public:
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
         vSeeds.emplace_back("81.169.152.105");
-        vSeeds.emplace_back("bibipool.com");
+        vSeeds.emplace_back("2.56.213.117");
         //vSeeds.emplace_back("dnsseed.bandexcointools.com");
         //vSeeds.emplace_back("dnsseed.bandexcoinpool.org");
 
@@ -220,8 +220,8 @@ public:
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
         //vSeeds.emplace_back("testnet-seed.bandexcointools.com");
-        vSeeds.emplace_back("86.106.181.240");
-        vSeeds.emplace_back("45.153.186.12");
+        vSeeds.emplace_back("81.169.152.105");
+        vSeeds.emplace_back("2.56.213.117");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196);
