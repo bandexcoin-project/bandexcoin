@@ -4,8 +4,8 @@ Bandexcoin Core integration/staging tree
 =====================================
 
 Website : https://bandexcoin.com <br />
-Explorer : http://explorer.bandexcoin.com/ <br />
-Pool : https://mining.bandexcoin.com/ <br />
+Explorer : https://explorer.bandexcoin.com/ <br />
+Pool : https://gigahashpool.com/ <br />
 Forum : https://bandexcoin.com/community <br />
 
 The specifications are: <br />
